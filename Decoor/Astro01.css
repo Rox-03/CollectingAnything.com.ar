@@ -1,0 +1,76 @@
+* {
+	font-family: cursive;
+}
+
+#PostedTi{
+	background-color: transparent;
+	text-align: center;
+}
+
+#Descripcion{
+	background-color: red;
+	text-align: center;
+	transform: translateY(1vw);
+	margin: 0px 0px;
+	color: white;
+}
+
+#BoxWee{
+	background-color: yellow;
+	text-align: center;
+	margin: 15px 100px;
+	padding: 30px;
+	border: 10px solid black;
+	border-radius: 2%;
+}
+
+.button01{
+	font-size: 25px;
+	margin: 10px;
+	background-color: darkred;
+	color: white;
+	border-radius: 10%;
+} .button01:hover{background-color: black; color: red; cursor: pointer;}
+
+#Ventana25{
+	background-color: darkcyan;
+}
+
+#ApoyarPatron{
+	text-align: center;
+	color: black;
+	display: block;
+	margin: 4vw 40vw auto;
+	border: 2px solid black;
+	padding: 5px 0px 5px;
+}#ApoyarPatron:hover{background-color: white; color: red; cursor: pointer;}
+
+
+#AdWarningImage{
+	display: inline-block;
+	width: 30px;
+	transform: translateY(10px);
+	border: 2px solid black;
+}
+
+
+#TextWarning{
+	text-align: center;
+	display: inline;
+	font-size: 17px;
+	padding: 10px;
+	margin: 0px;
+	color: darkred;
+}
+
+#MuestraImage{
+	display: block;
+	margin: auto;
+	width: 50%;
+	padding: 50px;
+	border-radius: 80px;
+}
+
+.Origin101{
+	position: absolute;
+}

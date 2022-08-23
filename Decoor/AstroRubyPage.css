@@ -1,0 +1,67 @@
+
+#HedFondo{
+	background-color: greenyellow;
+    font-family: cursive;
+}
+
+#BaceEnacbezado{
+	display: block;
+	position: relative;
+	text-align: center;
+	background-image: url(../Imagenes/Gifes/Porno-Fortnite.gif);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 1080px;
+	margin: 20px;
+	padding:10px;
+}
+
+#tituloArg{
+	font-size: 40px;
+	padding: 10px;
+	color: black;
+	-webkit-text-stroke: 2px white;
+}
+
+#imagenIco{
+	position: static;
+	padding: 5px;
+	margin: 3px;
+	width: 3vw;
+	display: initial;
+	transform: translateY(14px) translateX(-0px);
+}
+
+#textoAt{
+	display: inline-block;
+	padding: 5px;
+	color: black;
+	-webkit-text-stroke: 0.6px white;
+	font-size: 20px;
+	text-align: center;
+}
+
+#Encabezado{
+	text-align: center;
+	background-color: black;
+	padding: 10px;
+	width: 80vw;
+	margin: 5vw 8vw;
+	transform: translateY(10vw);
+	color: white;
+}
+
+#Botono90{
+	text-align: center;
+	font-size: 18px;
+	display: block;
+	margin: 50px auto;
+	padding: 10px 40px;
+	border-radius: 5px;
+	background-color: white;
+	transform: translateY(20px);
+}#Botono90:hover{background-color: black; color: white; transform: scale(1.3) translateY(20px); cursor: pointer;}
+
+.Origin09{
+	position: absolute;
+}
